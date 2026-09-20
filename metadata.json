@@ -1,0 +1,6 @@
+{
+  "name": "Life Threads",
+  "description": "Transform your digital life receipts into connected moments, interactive relationships, and cinematic narrative stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
